@@ -43,10 +43,12 @@ python expense-tracker.py summary --month 3  # March expenses
 ### Example Output
 ```bash
 ID    Date            Description     Amount  
-1     30-03-2025      Lunch           $15  
+1     19-02-2025      Lunch           $15  
 2     30-03-2025      Groceries       $40
 
-Total expenses: $55  
+Total expenses: $55
+
+Total expenses for March: $40
 ```
 
 ## Author
