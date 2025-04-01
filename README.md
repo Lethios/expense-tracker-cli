@@ -2,12 +2,14 @@
 
 A simple command-line tool to manage your expenses by adding, deleting, listing, and summarizing them.
 
+
 ## Features
 - Add expenses with a description and amount
 - Delete expenses using their unique ID
 - List all expenses in a tabular format
 - View a summary of total expenses or filter by month
 - Data is stored in a JSON file for persistence
+
 
 ## Installation
 Clone the repository and navigate to the folder:
@@ -16,11 +18,13 @@ git clone https://github.com/Lethios/expense-tracker-cli.git
 cd expense-tracker
 ```
 
+
 ## Usage
 Run the script using:
 ```bash
 python expense-tracker.py <command> [options]
 ```
+
 
 ### Commands
 Add an expense:
@@ -51,13 +55,13 @@ python expense-tracker.py summary --month 3  # March expenses
 # Total expenses for March: $40
 ```
 
-## Author
 
+## Author
 **Lethios**
 - Github: [@Lethios](https://github.com/Lethios)
 - Twitter: [@LethiosDev](https://x.com/LethiosDev)
 
-## License
 
+## License
 Copyright © 2025 [Lethios](https://github.com/Lethios).  
 This project is licensed under the [MIT License](LICENSE).
