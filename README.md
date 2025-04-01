@@ -4,11 +4,11 @@ A simple command-line tool to manage your expenses by adding, deleting, listing,
 
 
 ## Features
-- Add expenses with a description and amount
-- Delete expenses using their unique ID
-- List all expenses in a tabular format
-- View a summary of total expenses or filter by month
-- Data is stored in a JSON file for persistence
+- Add expenses with a description and amount.
+- Delete expenses using their unique ID.
+- List all expenses in a tabular format.
+- View a summary of total expenses or filter by month.
+- Data is stored in a JSON file for persistence.
 
 
 ## Installation
